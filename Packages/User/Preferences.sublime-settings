@@ -1,0 +1,10 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+"theme": "ayu-dark.sublime-theme",
+"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+"font_face":"FantasqueSansM Nerd Font",
+"font_size":20,
+}

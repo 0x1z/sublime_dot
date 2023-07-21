@@ -1,0 +1,26 @@
+[
+     {
+       "class": "sidebar_label",
+       "font.face": "FantasqueSansM Nerd Font"
+     },
+     {
+       "class": "sidebar_heading",
+       "font.face": "FantasqueSansM Nerd Font"
+     },
+     {
+       "class": "tab_label",
+       "font.face": "FantasqueSansM Nerd Font"
+     },
+     {
+       "class": "label_control",
+       "font.face": "FantasqueSansM Nerd Font"
+     },
+     {
+       "class": "quick_panel_label",
+       "font.face": "FantasqueSansM Nerd Font"
+     },
+     {
+       "class": "quick_panel_path_label",
+       "font.face": "FantasqueSansM Nerd Font"
+     }
+   ]
